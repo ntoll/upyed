@@ -1,5 +1,5 @@
-BBC micro:bit MicroPython Editor for TouchDevelop
-=================================================
+Browser Based BBC micro:bit MicroPython Editor
+==============================================
 
 This project is an editor that targets the MicroPython
 (http://micropython.org) version of the Python programming language
@@ -7,3 +7,5 @@ This project is an editor that targets the MicroPython
 BBC's micro:bit device (https://en.wikipedia.org/wiki/Micro_Bit).
 
 Point your browser at the editor.html file. :-)
+
+Click "download" to get a .hex file and then flash the device.
